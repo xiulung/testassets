@@ -1,22 +1,22 @@
-<svg width="301" height="26" viewBox="0 0 301 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="293" height="26" viewBox="0 0 293 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M13 25.5C6.09644 25.5 0.5 19.9036 0.5 13C0.5 6.09644 6.09644 0.5 13 0.5C19.9036 0.5 25.5 6.09644 25.5 13C25.5 19.9036 19.9036 25.5 13 25.5Z" fill="#F6F8FA"/>
 <g clip-path="url(#clip0_1831_49122)">
 <path d="M15.1511 4.96948L7.12059 7.1212L4.96875 15.1517L10.8475 21.0305L18.8781 18.8788L21.0299 10.8483L15.1511 4.96948ZM16.4634 19H9.53523L6.07119 13L9.53523 7H16.4634L19.9275 13L16.4634 19Z" fill="#656D76"/>
 <path d="M17.0205 8.97949L11.5284 7.50781L7.50781 11.5284L8.97949 17.0205L14.4715 18.4921L18.4921 14.4715L17.0205 8.97949Z" fill="#656D76"/>
 </g>
 <path d="M13 25.5C6.09644 25.5 0.5 19.9036 0.5 13C0.5 6.09644 6.09644 0.5 13 0.5C19.9036 0.5 25.5 6.09644 25.5 13C25.5 19.9036 19.9036 25.5 13 25.5Z" stroke="#D0D7DE"/>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="36" y="18.6597">&#x1f389;</tspan></text>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="55" y="18.6597">1</tspan></text>
-<path d="M43 0.5H57C63.9036 0.5 69.5 6.09644 69.5 13C69.5 19.9036 63.9036 25.5 57 25.5H43C36.0964 25.5 30.5 19.9036 30.5 13C30.5 6.09644 36.0964 0.5 43 0.5Z" stroke="#D0D7DE"/>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="84" y="18.6597">&#x1f92e;</tspan></text>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="103" y="18.6597">99</tspan></text>
-<path d="M91 0.5H113C119.904 0.5 125.5 6.09644 125.5 13C125.5 19.9036 119.904 25.5 113 25.5H91C84.0964 25.5 78.5 19.9036 78.5 13C78.5 6.09644 84.0964 0.5 91 0.5Z" stroke="#D0D7DE"/>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="140" y="18.6597">&#x1fa85;</tspan></text>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="159" y="18.6597">1</tspan></text>
-<path d="M147 0.5H161C167.904 0.5 173.5 6.09644 173.5 13C173.5 19.9036 167.904 25.5 161 25.5H147C140.096 25.5 134.5 19.9036 134.5 13C134.5 6.09644 140.096 0.5 147 0.5Z" stroke="#D0D7DE"/>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="188" y="18.6597">&#x1f635;&#x200d;&#x1f4ab;</tspan></text>
-<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="207" y="18.6597">&#xfe0f; 100,000,000</tspan></text>
-<path d="M195 0.5H288C294.904 0.5 300.5 6.09644 300.5 13C300.5 19.9036 294.904 25.5 288 25.5H195C188.096 25.5 182.5 19.9036 182.5 13C182.5 6.09644 188.096 0.5 195 0.5Z" stroke="#D0D7DE"/>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="34" y="18.6597">&#x1f389;</tspan></text>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="53" y="18.6597">1</tspan></text>
+<path d="M43 0.5H55C61.9036 0.5 67.5 6.09644 67.5 13C67.5 19.9036 61.9036 25.5 55 25.5H43C36.0964 25.5 30.5 19.9036 30.5 13C30.5 6.09644 36.0964 0.5 43 0.5Z" stroke="#D0D7DE"/>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="80" y="18.6597">&#x1f92e;</tspan></text>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="99" y="18.6597">99</tspan></text>
+<path d="M89 0.5H109C115.904 0.5 121.5 6.09644 121.5 13C121.5 19.9036 115.904 25.5 109 25.5H89C82.0964 25.5 76.5 19.9036 76.5 13C76.5 6.09644 82.0964 0.5 89 0.5Z" stroke="#D0D7DE"/>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="134" y="18.6597">&#x1fa85;</tspan></text>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="153" y="18.6597">1</tspan></text>
+<path d="M143 0.5H155C161.904 0.5 167.5 6.09644 167.5 13C167.5 19.9036 161.904 25.5 155 25.5H143C136.096 25.5 130.5 19.9036 130.5 13C130.5 6.09644 136.096 0.5 143 0.5Z" stroke="#D0D7DE"/>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="180" y="18.6597">&#x1f635;&#x200d;&#x1f4ab;</tspan></text>
+<text fill="#656D76" xml:space="preserve" style="white-space: pre" font-family="SF Pro" font-size="13" font-weight="510" letter-spacing="0em"><tspan x="199" y="18.6597">&#xfe0f; 100,000,000</tspan></text>
+<path d="M189 0.5H280C286.904 0.5 292.5 6.09644 292.5 13C292.5 19.9036 286.904 25.5 280 25.5H189C182.096 25.5 176.5 19.9036 176.5 13C176.5 6.09644 182.096 0.5 189 0.5Z" stroke="#D0D7DE"/>
 <defs>
 <clipPath id="clip0_1831_49122">
 <rect width="24" height="24" fill="white" transform="matrix(-1 0 0 1 25 1)"/>
